@@ -1,4 +1,4 @@
-API14,WellName,WellNumber,OperatorAlias,Field,TargetFormation,TotalDepth,VerticalDepth,DrillType,UpperPerforation,LowerPerforation,GrossPerforatedInterval,Horizontal Length,TreatmentJobCount,CumBOE,CumGas,CumOil,First6BOE,FirstProdDate,Township,Range
+API14,WellName,WellNumber,OperatorAlias,Field,TargetFormation,TotalDepth,VerticalDepth,DrillType,UpperPerforation,LowerPerforation,GrossPerforatedInterval,HorizontalLength,TreatmentJobCount,CumBOE,CumGas,CumOil,First6BOE,FirstProdDate,Township,Range
 5123192590000,BRINGELSON,1-28X,PETERSON ENERGY OPERATING,NEW DAY,NIOBRARA,7630.0,5827.0,H,6185.0,7415.0,1230.0,,1.0,474.0,0.0,474.0,448.0,1997-03-01,09N,58W
 5001097530000,WEP,4-28-11-3-64,AXIS ENERGY,DJ HORIZONTAL NIOBRARA,NIOBRARA,11431.0,7551.0,H,7519.0,11431.0,3912.0,4376.37,2.0,28664.0,45552.0,21072.0,10662.0,2017-04-01,03S,64W
 5001097540000,WEP,1-28-11-3-64,AXIS ENERGY,DJ HORIZONTAL NIOBRARA,NIOBRARA,11715.0,7594.0,H,8151.0,11715.0,3564.0,3575.27,2.0,33546.0,60174.0,23517.0,13185.0,2013-02-01,03S,64W
