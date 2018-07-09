@@ -13,18 +13,20 @@ The production data I will be using is extacted from the [Colorado Oil and Gas C
 Download the following from above:
 __For Data Cleaning and Exploration__
 All raw data sets were too large to upload to github.  They have been uploaded to [GoogleDrive](https://drive.google.com/drive/u/0/folders/1XvwIHSMJVQs7U-nzpQhcedv4LWQ8Ta7J) instead.
-- Raw Data Files:
+- __Raw Data Files:__
     - `2017_prod_reports.csv`, which includes Colorado well production by month since 1990.
     - `DHJZ6-17-18Wells.CSV`, which includes the information on all Colorado well production
     - `dj hz 6-17-18 Production Time Series.CSV`, which contains production for each month for each well in Colorado
     - `bakkenWells.CSV`, which contains the Montana raw data
     - `DI Engineering Explorer well roll up.xlsx`, which contains the Oklahoma and Texas well production 
     - `FracFocus` folder, which contains csv files from the FracFocus Registry
-__For Modeling__
-- `fracwells_clean.csv`, which contains cleaned and merged data on well production and fracing methods for Colorado.
-- `cofeatures.csv`, which contains cleaned and merged data with engineered and non-engineered features for Colorado.
-- `mtfeatures.csv`, which contains cleaned and merged data with engineered features for Montana.
-- `okfeatures.csv`, which contains cleaned and merged data with engineered features for Oklahoma and Texas.
+- __Clean Data Files:__
+    - `fracwells_co.csv`, which contains cleaned and merged data on well production and fracing methods for Colorado.
+    - `fracmethod_clean.csv`, which contains cleaned frac method data from across the United States, which was used for merging with individual state production data.
+-__For Modeling__
+    - `cofeatures.csv`, which contains cleaned and merged data with engineered and non-engineered features for Colorado.
+    - `mtfeatures.csv`, which contains cleaned and merged data with engineered features for Montana.
+    - `okfeatures.csv`, which contains cleaned and merged data with engineered features for Oklahoma and Texas.
 
 ### Usage
 __Data Cleaning:__ Run all cells in the `Frac_Production_Data_Cleaning.ipynb` file using a jupyter notebook.
