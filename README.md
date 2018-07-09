@@ -23,7 +23,7 @@ All raw data sets were too large to upload to github.  They have been uploaded t
 - __Clean Data Files:__
     - `fracwells_co.csv`, which contains cleaned and merged data on well production and fracing methods for Colorado.
     - `fracmethod_clean.csv`, which contains cleaned frac method data from across the United States, which was used for merging with individual state production data.
--__For Modeling__
+- __For Modeling:__
     - `cofeatures.csv`, which contains cleaned and merged data with engineered and non-engineered features for Colorado.
     - `mtfeatures.csv`, which contains cleaned and merged data with engineered features for Montana.
     - `okfeatures.csv`, which contains cleaned and merged data with engineered features for Oklahoma and Texas.
