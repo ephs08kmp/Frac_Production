@@ -22,6 +22,7 @@ All raw data sets were too large to upload to github.  They have been uploaded t
     - `FracFocus` folder, which contains csv files from the FracFocus Registry
 __For Modeling__
 - `fracwells_clean.csv`, which contains cleaned and merged data on well production and fracing methods for Colorado.
+- `cofeatures.csv`, which contains cleaned and merged data with engineered and non-engineered features for Colorado.
 - `mtfeatures.csv`, which contains cleaned and merged data with engineered features for Montana.
 - `okfeatures.csv`, which contains cleaned and merged data with engineered features for Oklahoma and Texas.
 
