@@ -35,7 +35,7 @@ __Modeling:__ Run all cells in the `Frac_Production_Modeling_CO.ipynb` file usin
  
  __Multi-States Modeling:__ Run all cells in the `Frac_Production_Multi_States.ipynb` file using a jupyter notebook
 
-__Summary:__ Summary of the analysis and modeling can be found in the `ADD PRESENTATION HERE` file. 
+__Summary:__ Summary of the analysis, modeling, and a product demonstration can be found in the `Hydraulic Fracturing Optimization_  Predicting Well Production` file. 
 
 ### Extending this
 If you want to extend this work, here are a few places to start:
