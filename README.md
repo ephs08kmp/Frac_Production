@@ -27,15 +27,16 @@ All raw data sets were too large to upload to github.  They have been uploaded t
     - `okfeatures.csv`, which contains cleaned and merged data with engineered features for Oklahoma and Texas.
 
 ### Usage
-__Data Cleaning:__ Run all cells in the `Frac_Production_Data_Cleaning.ipynb` file using a jupyter notebook.
+__Summary:__ Summary of the analysis, modeling, and a product demonstration can be found in the `1_Frac_Production_Summary` notebook, and in the `Hydraulic Fracturing Optimization_  Predicting Well Production` presentation. 
 
-__Exploratory Data Analysis:__ Run all cells in the `Frac_Production_Analysis.ipynb` file using a jupyter notebook.
+__Data Cleaning:__ Run all cells in the `2_Frac_Production_Data_Cleaning.ipynb` file using a jupyter notebook.
 
-__Modeling:__ Run all cells in the `Frac_Production_Modeling_CO.ipynb` file using a jupyter notebook.
+__Exploratory Data Analysis:__ Run all cells in the `3_Frac_Production_Analysis.ipynb` file using a jupyter notebook.
+
+__Modeling:__ Run all cells in the `4_Frac_Production_Modeling_CO.ipynb` file using a jupyter notebook.
  
- __Multi-States Modeling:__ Run all cells in the `Frac_Production_Multi_States.ipynb` file using a jupyter notebook
+ __Multi-States Modeling:__ Run all cells in the `5_Frac_Production_Multi_States.ipynb` file using a jupyter notebook
 
-__Summary:__ Summary of the analysis, modeling, and a product demonstration can be found in the `Hydraulic Fracturing Optimization_  Predicting Well Production` file. 
 
 ### Extending this
 If you want to extend this work, here are a few places to start:
